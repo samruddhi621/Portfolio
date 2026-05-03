@@ -4,7 +4,7 @@ function About() {
       <h2>About Me</h2>
 
       <p>
-        Hello! I'm <span className="highlight">Samruddhi</span>, a first-year B.Tech student 
+        Hello! I'm <span className="highlight">Samruddhi</span>, a Secound-year B.Tech student 
         with a strong interest in web development and emerging technologies.
       </p>
 
